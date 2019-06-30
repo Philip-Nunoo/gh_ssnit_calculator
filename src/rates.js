@@ -1,6 +1,6 @@
 export default {
     2019: {
-        SSNIT: 5.5,
+        ssnit: 5.5,
         monthly: [
             { idx: 0, percentage: 0, amount: 288 },
             { idx: 1, percentage: 5, amount: 100 },
