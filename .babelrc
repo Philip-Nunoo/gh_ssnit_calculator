@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "@babel/plugin-proposal-class-properties",
+        "transform-flow-strip-types",
+        ["@babel/plugin-proposal-decorators", { "legacy": true }]
+    ],
+    "presets": [
+        "@babel/preset-env"
+    ],
+}
